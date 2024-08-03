@@ -334,15 +334,6 @@ Here's the organized list of commands for **Apache HTTP Server**, **Apache2**, a
 - **Perform a rolling restart of Mesos components:**
   ```bash
   systemctl restart mesos-master
- ```
-Certainly! Continuing from where we left off:
-
-### **Apache Mesos CLI Commands (Continued)**
-
-#### **4. Advanced Operations (Continued)**
-
-- **Perform a rolling restart of Mesos components (continued):**
-  ```bash
   systemctl restart mesos-agent
   ```
 
